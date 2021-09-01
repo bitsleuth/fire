@@ -1,4 +1,4 @@
-﻿# Work in progress
+# Work in progress
 # add proper function sections
 # add output files
 
